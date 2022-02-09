@@ -1,4 +1,4 @@
-# Hey!
+# d/amn
 
-Telegram: @q0x005202 <br />
-Languages I know/learning: Python, C, C++, JavaScript
+(съеби отсюда пж, ниче интересного не найдешь)) <br />
+
