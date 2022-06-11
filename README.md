@@ -2,6 +2,6 @@
 
 съеби отсюда пж, ниче интересного не найдешь) <br />
 ![](zxc-cat.gif) <br />
-tg - zxcgandon <br />
-ds - amethist#1489
+ - tg - zxcmethqq <br />
+ - ds - amethist#1489
 
