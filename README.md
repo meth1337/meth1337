@@ -1,7 +1,6 @@
 # d/amn
 
-![](zxc-cat.gif) <br />
-
+![](zxc-cat.gif)
 ```
 low-level dev // гуль сс ранга
  - tg - zxcmethqq <br />
