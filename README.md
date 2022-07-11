@@ -4,7 +4,8 @@
 ```
 low-level dev // гуль сс ранга
 distro: linux mint
-wm: cinnamon
+de: cinnamon
+playlist: https://cutt.ly/iLxBHrT
 
  - tg - @zxcmethqq
  - ds - amethist#1489
