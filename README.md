@@ -3,7 +3,7 @@
 ![](zxc-cat.gif)
 ```
 low-level dev // гуль сс ранга
- - tg - zxcmethqq <br />
+ - tg - @zxcmethqq
  - ds - amethist#1489
 ```
 
