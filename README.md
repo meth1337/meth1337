@@ -1,5 +1,3 @@
-# d/amn
-
 ![](enmu.jpg)
 ```
 low-level dev // гуль сс ранга
