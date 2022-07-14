@@ -9,5 +9,6 @@ playlist: https://cutt.ly/iLxBHrT
 
  - tg - @zxcmethqq
  - ds - amethist#1489
+ - vk - onlycompleteisolationallowed
 ```
 
