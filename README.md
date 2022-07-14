@@ -10,6 +10,6 @@
                                 de: cinnamon                        ds - amethist#1489
                                 wm: mutter                          vk - onlycompleteisolationallowed
 
-                                soundcloud playlist: https://cutt.ly/iLxBHrT
+                                      soundcloud playlist: https://cutt.ly/iLxBHrT
 ```
 
