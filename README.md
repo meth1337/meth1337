@@ -3,15 +3,13 @@
 </p>
 
 ```
-low-level dev // гуль сс ранга
-distro: linux mint
-de: cinnamon
-wm: mutter 
+            low-level dev // гуль сс ранга 
 
-playlist: https://cutt.ly/iLxBHrT
+distro info:                        socials:
+distro: linux mint                  tg - zxcmethqq
+de: cinnamon                        ds - amethist#1489
+wm: mutter                          vk - onlycompleteisolationallowed
 
- - tg - @zxcmethqq
- - ds - amethist#1489
- - vk - onlycompleteisolationallowed
+soundcloud playlist: https://cutt.ly/iLxBHrT
 ```
 
