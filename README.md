@@ -3,7 +3,7 @@
 </p>
 
 <code>
-low-level dev // гуль сс ранга<br> <br > distro info:                        socials:<br > distro: linux mint                  tg - zxcmethqq</code>
+low-level dev // гуль сс ранга <br > <br > distro info:                        socials: <br > distro: linux mint                  tg - zxcmethqq</code>
 de: cinnamon                        ds - amethist#1489
 wm: mutter                          vk - onlycompleteisolationallowed
 
