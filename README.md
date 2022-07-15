@@ -3,7 +3,7 @@
 </p>
 
 ```
-low-level dev // гуль сс ранга <br > <br >
+low-level dev // гуль сс ранга
 distro info:                         socials:
 distro: linux mint                  tg - zxcmethqq</code>
 de: cinnamon                        ds - amethist#1489
