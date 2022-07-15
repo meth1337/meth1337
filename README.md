@@ -4,8 +4,8 @@
 
 ```
 low-level dev // гуль сс ранга
-distro info:                         socials:
-distro: linux mint                  tg - zxcmethqq</code>
+distro info:                        socials:
+distro: linux mint                  tg - zxcmethqq
 de: cinnamon                        ds - amethist#1489
 wm: mutter                          vk - onlycompleteisolationallowed
 
