@@ -13,3 +13,8 @@
 
                                        soundcloud playlist: https://cutt.ly/iLxBHrT
 ```
+<br >
+
+<p align="center">
+  <img src="https://github.com/meth1337/meth1337/blob/main/rubyonruby.png" />
+</p>
